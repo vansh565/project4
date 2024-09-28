@@ -1,0 +1,38 @@
+button{
+    color: black;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+h1{
+    color: antiquewhite;
+}
+fieldset{
+    height: 250px;
+    width: 250px;
+    align-self: center;
+    color: aqua;
+    margin-top: 50px;
+  
+
+}
+
+
+h2{
+    color: white;
+}
+#n{
+    margin-left: 620px;
+    margin-top: -320px;
+
+}
+#h{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#s{
+    margin-left: 1200px;
+    margin-top: -270px;
+
+}

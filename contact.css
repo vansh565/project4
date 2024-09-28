@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.background{
+    height:50vh;
+    background-image: url(suneet.jpg);
+    background-position: center;
+    background-size: cover;
+    
+     width:50vh;
+
+}
+body{
+    background-image:url(3.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color: antiquewhite;
+    
+}
+h2{
+    text-align: center;
+    padding-top: 15px;
+    color: azure;
+    
+}
